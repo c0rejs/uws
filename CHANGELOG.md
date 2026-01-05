@@ -1,5 +1,15 @@
 # Changelog
 
+### v2.11.28 (2026-01-05)
+
+**Other changes:**
+
+- chore: remove npm @sencha:registry (● [2f53287](https://github.com/c0rejs/uws/commit/2f53287); 👬 zdm)
+
+- chore: update softvisio/actions version (● [bf4d5fb](https://github.com/c0rejs/uws/commit/bf4d5fb); 👬 zdm)
+
+Compare with the previous release: [v2.11.27](https://github.com/c0rejs/uws/compare/v2.11.27...v2.11.28)
+
 ### v2.11.27 (2026-01-03)
 
 **Bug fixes:**
