@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.11.30 (2026-01-27)
+
+**Other changes:**
+
+- chore(metadata): update package metadata (● [7c63410](https://github.com/c0rejs/uws/commit/7c63410); 👬 zdm)
+
+Compare with the previous release: [v2.11.29](https://github.com/c0rejs/uws/compare/v2.11.29...v2.11.30)
+
 ### v2.11.29 (2026-01-16)
 
 **Other changes:**
